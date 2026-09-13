@@ -1,16 +1,21 @@
-## Hi there 👋
+### Godswill
 
-<!--
-**godswilloh/godswilloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & security engineer. I run servers, secure hosting platforms, and build the automation that keeps them running.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas**
+- Linux server administration & hosting infrastructure
+- Security hardening, DNS, backups, migrations
+- WHMCS & workflow automation
+- Monitoring, alerting, and incident response
+
+**Currently**
+- Freelancing — taking on selective infrastructure and hosting projects
+- Writing about operations, DNS, and control panels
+- Maintaining a private client codebase across cPanel, DirectAdmin, and Plesk environments
+
+---
+
+**Portfolio** · [godswill.dev](https://godswill.dev)
+**Contact** · [godswill.dev/#contact](https://godswill.dev/#contact)
